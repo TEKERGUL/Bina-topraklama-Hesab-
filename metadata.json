@@ -1,0 +1,6 @@
+{
+  "name": "Bina Topraklama Hesaplama Programı (TR)",
+  "description": "Türkiye standartlarına uygun bina topraklama hesaplama ve CAD tabanlı tasarım aracı. Trafo ve jeneratör binaları için özel hesaplamalar içerir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
